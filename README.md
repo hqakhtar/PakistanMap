@@ -4,10 +4,10 @@ Spatial files for the map of Pakistan. The complete map of Pakistan was not avai
 ## What's Special
 Pakistan's maps available elsewhere on the web do not include the Indian Occupied Kashmir (IOK). Also, the FATA region is show separately. In this map, I've added IOK and merged FATA with the KP province.
 
-### Coordinate Reference System
+## Coordinate Reference System
 EPSG:4326 - WGS 84
 
-### Attribute Table
+## Attribute Table
 FID | NAME | SHORT_NAME |
 | ---: | --- | --- |
 | 1 | Azad Jammu and Kashmir | AJK |
@@ -18,3 +18,7 @@ FID | NAME | SHORT_NAME |
 | 6 | Khyber Pakhtunkhwa | KP |
 | 7 | Punjab | Punjab |
 | 8 | Sindh | Sindh |
+
+## GeoJSON File
+All the geojson data is set in a variable called "pak".
+
