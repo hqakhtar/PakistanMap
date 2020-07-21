@@ -1,6 +1,8 @@
 # Pakistan Map
 Spatial files for the map of Pakistan. The complete map of Pakistan was not available anywhere on the web. So this is the only source of the complete spatial file.
 
+![alt text](PakistanMap.png)
+
 ## What's Special
 Pakistan's maps available elsewhere on the web do not include the Indian Occupied Kashmir (IOK). Also, the FATA region is show separately. In this map, I've added IOK and merged FATA with the KP province.
 
